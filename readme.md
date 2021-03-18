@@ -1,5 +1,5 @@
 # Candrika-Dewi_I0320019_Aditya-Mahendra_Tugas-3
-Tugas praktikum prokom week 3. 2021
+Tugas praktikum prokom week 3, 2021.
 
 ###Daftar Isi
 
