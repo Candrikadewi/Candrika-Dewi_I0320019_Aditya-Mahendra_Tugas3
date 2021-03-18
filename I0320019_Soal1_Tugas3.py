@@ -15,7 +15,7 @@ list.append('Evelyn')
 
 # Menampilkan semua teman dengan pengulangan
 rose = 0
-for white in range (0,12) :
+for win in range (0,12) :
     print (list[rose])
     rose+=1
 
